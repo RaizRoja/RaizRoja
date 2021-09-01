@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaizRoja
 - 👀 I’m interested in brand design strategy
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on a dogs related website´s front end. And even helping with the brand´s style strategy and design.
+- 💞️ I’m looking to collaborate on a brand´s website´s front end.
 - 📫 You can reach me at raizroja.estudio@gmail.com
 
 <!---
